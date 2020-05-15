@@ -1,3 +1,18 @@
-body {
-  background-image: url(lighthouse.jpg);
+.jumbotron {
+  color: white;
+  background-image: url("./Lighthouse.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+}
+
+.content-body {
+  background-color: rgba(0, 0, 0, 0.7);
+  padding: 2.5%;
+  border-radius: 15px;
+}
+
+.form-group {
+  width: 50%;
 }
